@@ -1,2 +1,3 @@
 # hello-world
 Very first one
+Hello, my name is Bobby.  I'm a branch manager at a consumer finance company.  I was exposed to Turbo Pascal as a sophomore in high school and did quite well in the class while enjoying programming immensely.  During that year I attended several local programming competitions, at which my team did well for our experience level.  Unfortunately I did not follow up this experience with any further training or education.  This was 22 years ago.  I am hoping to regain a love for programming, and develop a skills set that will help me to ultimately transition into a full-time career.
